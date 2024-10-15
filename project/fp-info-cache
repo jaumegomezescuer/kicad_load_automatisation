@@ -1,4 +1,4 @@
-23846541489886816
+23848269520354044
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89004,6 +89004,13 @@ Integrated Circuit
 0
 3
 3
+SamacSys_Parts
+V23079A1001B301
+V23079 (Monostable)
+Relay or Contactor
+0
+8
+8
 SamacSys_Parts
 V23079D1003B301
 V23079D1003B301-2

@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"IC1,IC2,IC4,IC5,IC6,IC7,IC8,IC9,IC10,IC11,IC12,IC13,IC14,IC15,IC16,IC17","DRDC3105F-7","https://www.diodes.com//assets/Datasheets/DRDC3105.pdf","SOT96P240X110-3N","16",""
+"IC3","MC74VHC138DR2G","http://www.onsemi.com/pub/Collateral/MC74VHC138-D.PDF","SOIC127P600X175-16N","1",""
+"K1,K10,K11,K12,K13,K14,K15,K16","IMC03TS","https://componentsearchengine.com/Datasheets/1/IMC03TS.pdf","IMC03TS","8",""
+"K2,K3,K4,K5,K6,K7,K8,K9","V23079C1103B301","https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98002%7FZ5%7Fpdf%7FEnglish%7FENG_SS_108-98002_Z5.pdf%7F4-1393788-8","V23079A1001B301","8",""
